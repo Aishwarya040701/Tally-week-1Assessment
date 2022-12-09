@@ -1,0 +1,16 @@
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\studentDetailsProject.csproj.AssemblyReference.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\studentDetailsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\studentDetailsProject.csproj.CoreCompileInputs.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\obj\Debug\studentDetailsProject.csproj.AssemblyReference.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\obj\Debug\studentDetailsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\obj\Debug\studentDetailsProject.csproj.CoreCompileInputs.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\ConsoleApplication-crud\SecondProject\obj\Debug\SecondProject.pdb

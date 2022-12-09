@@ -1,0 +1,8 @@
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\h.aishwarya\Desktop\c# workspace\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
